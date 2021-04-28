@@ -24,7 +24,7 @@ import (
 	"syscall"
 
 	"github.com/txthinking/mr2"
-	"github.com/urfave/cli"
+	"github.com/urfave/cli/v2"
 )
 
 var debug bool
